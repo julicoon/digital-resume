@@ -16,7 +16,7 @@ PAGE_TITLE = "Digital Resume | Julia Peham"
 PAGE_ICON = "👩‍🔬"
 NAME = "Julia Peham, BSc"
 DESCRIPTION = """
-Behaviour, Neurobiology and Cognition master's student at the University of Vienna, assisting as a tutor and intern."""
+Behaviour, Neurobiology and Cognition master's student at the University of Vienna; assisting as a tutor and intern."""
 EMAIL = "julia.peham@univie.ac.at"
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
